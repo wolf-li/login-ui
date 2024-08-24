@@ -4,6 +4,12 @@ This is a login ui demo. Learning from [youtube video](https://www.youtube.com/p
 
 develop tool: visual stuido 2022  
 tech: c++ winform  
+package: windows installer studio installer project
+
+project directory  
+> |-- src  
+> |    -- login    // login ui code  
+> |    -- publish  // package the project  
 
 problem:
 * The widget failed to load background images and text
