@@ -1,0 +1,5 @@
+src/x64/
+src/login/x64/
+.vs/
+src/publish/Debug
+src/publish/Release
